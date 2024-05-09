@@ -1,4 +1,4 @@
-export default function start() {
+export default function Page() {
   return (
     <>
       <p>Hello world</p>
